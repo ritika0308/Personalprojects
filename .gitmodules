@@ -4,3 +4,6 @@
 [submodule "Podcast_aggregator"]
 	path = Podcast_aggregator
 	url = git@github.com:ritika0308/Podcast_aggregator.git
+[submodule "Movie_recommendation"]
+	path = Movie_recommendation
+	url = git@github.com:ritika0308/Movie_recommendation.git
