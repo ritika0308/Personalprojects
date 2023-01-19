@@ -7,3 +7,6 @@
 [submodule "Movie_recommendation"]
 	path = Movie_recommendation
 	url = git@github.com:ritika0308/Movie_recommendation.git
+[submodule "Twitter_sentiment_analysis"]
+	path = Twitter_sentiment_analysis
+	url = git@github.com:ritika0308/Twitter_sentiment_analysis.git
