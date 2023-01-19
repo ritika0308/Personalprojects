@@ -1,0 +1,6 @@
+[submodule "flashcard_app"]
+	path = flashcard_app
+	url = git@github.com:ritika0308/flashcard_app.git
+[submodule "Podcast_aggregator"]
+	path = Podcast_aggregator
+	url = git@github.com:ritika0308/Podcast_aggregator.git
